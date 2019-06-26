@@ -28,6 +28,6 @@ You can visit the releases tab to grab the download. If you don't trust the bina
 1. Install Nexe `npm i -g nexe`
 1. Install TypeScript `npm i -g typescript`
 1. Compile TypeScript `tsc`
-1. Compile into binary `nexe dist/indexe.js`
+1. Compile into binary `nexe dist/index.js`
 
 You should now have a binary named `lolswap.exe`
