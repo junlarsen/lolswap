@@ -17,7 +17,9 @@ LolSwap ships as a .exe file (which is why you can run it in the terminal)
 
 ## Download from releases
 
-You can visit the releases tab to grab the download. If you don't trust the binary, you can build it yourself with the instructions below.
+There is an executable binary in the releases tab, but building it yourself is way cooler!
+
+I'm sure everybody is suspicious about random .exe's from random people, which is why I suggest you build the binary from source yourself. The instructions are listed below
 
 ## Build it yourself
 
@@ -31,3 +33,7 @@ You can visit the releases tab to grab the download. If you don't trust the bina
 1. Compile into binary `nexe dist/index.js`
 
 You should now have a binary named `lolswap.exe`
+
+## Legal Stuff
+
+lolswap was created under Riot Games' "Legal Jibber Jabber" policy using assets owned by Riot Games.  Riot Games does not endorse or sponsor this project.
