@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/supergrecko/lolswap#readme",
   "dependencies": {
-    "league-connect": "^1.0.3"
+    "league-connect": "^1.0.4"
   }
 }
